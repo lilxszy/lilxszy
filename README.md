@@ -2,7 +2,7 @@
 Soy Ana Guarin, estoy en grado decimo
 -  Actualmente estoy aprendiendo progracion de software 
 -  Me gusta todo lo relacionado con deportes como la F1 y el tenis de campo :P
-- Tambien me gusta trabajar en equipo, ser social, aprender y experimentar cosas nuevas c:
+- Tambien me gusta trabajar en equipo, ser social, aprender y experimentar cosas nuevas c:😜
 
 - Estos son algunos de los proyectos que llevamos hasta el momento
 -Noosfera: Un planteamiento de una aplicacion para mejorar la relacion de las personas con sus emociones internas.
