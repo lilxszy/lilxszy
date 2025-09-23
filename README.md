@@ -1,7 +1,7 @@
 ## ¡Hola! 👋
 Soy Ana Guarin
 -  Actualmente estoy aprendiendo progracion de software 
--  Me gusta todo lo relacionado con deportes como el tenis de campo 
+-  Me gusta todo lo relacionado con deportes como la F1 y el tenis de campo :P
 - Tanbien me gusta trabajar en equipo, ser social, aprender y experimentar cosas nuevas c:
 
 <!--
