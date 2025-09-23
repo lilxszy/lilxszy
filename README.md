@@ -1,5 +1,5 @@
 ## ¡Hola! 👋
-Soy Ana Guarin
+Soy Ana Guarin, estoy en grado decimo
 -  Actualmente estoy aprendiendo progracion de software 
 -  Me gusta todo lo relacionado con deportes como la F1 y el tenis de campo :P
 - Tambien me gusta trabajar en equipo, ser social, aprender y experimentar cosas nuevas c:
