@@ -13,3 +13,5 @@ Tamnbien hemos aprendido como clafisicar requisitos funcionales y no funcionales
 [Priorizacion de requisitos.pdf](https://github.com/user-attachments/files/22502864/Priorizacion.de.requisitos.pdf)
 
 En el futuro, me gustaria terminar de aprender todo lo que nos falta, ya que me parece un tema en el que hay mucho campo de accion y es muy interesante.
+Tambien me gustaria estudiar negocios y comercios internacionales, hacer un intercambio en el extrajero y probablemente aprender un tercer idioma.
+
