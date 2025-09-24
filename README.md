@@ -9,7 +9,7 @@ Soy Ana Guarin, estoy en grado decimo
 ![5a70bc27-03ec-4952-8e35-a0c8656d1423](https://github.com/user-attachments/assets/433c9bd1-0f3b-459f-a715-5d89ed81be9f)
 ![2f3890d0-6029-4499-bb60-4ea33bfb581b](https://github.com/user-attachments/assets/e08841ea-8016-497b-9dab-7e27c462485b)
 
-Tamnien hemos aprendido como clafisicar requisitos funcionales y no funcionales, las distintas metodologias para hacerlo, etc.
+Tambien hemos aprendido como clafisicar requisitos funcionales y no funcionales, las distintas metodologias para hacerlo, etc.
 [Priorizacion de requisitos.pdf](https://github.com/user-attachments/files/22502864/Priorizacion.de.requisitos.pdf)
 
 En el futuro, me gustaria terminar de aprender todo lo que nos falta, ya que me parece un tema en el que hay mucho campo de accion y es muy interesante.
